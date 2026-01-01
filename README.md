@@ -1,9 +1,9 @@
 # ¡Hola! Soy Jose 👋
 
-### Estudiante de Desarrollo de Aplicaciones Web (DAW) 💻
+### Desarrollo Web (DAW) | IA Generativa & Business Logic 💻🤖
 
-Bienvenido a mi perfil de GitHub. Actualmente estoy enfocado en el aprendizaje y desarrollo de aplicaciones web modernas, así como en la gestión de entornos y despliegues.
+Bienvenido a mi perfil de GitHub. Actualmente estoy enfocado en la convergencia entre la gestión de negocio y el desarrollo de software, priorizando la **automatización mediante Inteligencia Artificial**.
 
-- 🚀 **Intereses:** Desarrollo Full Stack, arquitectura de contenedores y optimización de flujos de trabajo.
-- 🛠️ **Stack Técnico:** HTML5, CSS3, JavaScript y administración de sistemas mediante Docker.
-- 🎓 **Formación:** Ciclo Formativo de Grado Superior en DAW.
+- 🤖 **IA & Automatización:** Especial interés en la integración de modelos de lenguaje (LLMs) en aplicaciones web y optimización de flujos de trabajo mediante ingeniería de *prompts*.
+- 🚀 **Tecnologías:** Desarrollo con JavaScript, Python y PHP, utilizando **Docker** para la orquestación de entornos y despliegue.
+- 🎓 **Formación:** Ciclo Superior en Desarrollo de Aplicaciones Web (DAW) en CIFP La Laboral.
