@@ -4,16 +4,19 @@
 
 ---
 
-Bienvenido a mi perfil. Mi enfoque principal es la convergencia entre la **gestión de negocio** y el **desarrollo de software**, priorizando la automatización mediante IA.
+Bienvenido a mi perfil. Mi enfoque principal es la **convergencia entre el Business Intelligence y el desarrollo de software**, priorizando la automatización mediante IA y la eficiencia operativa en entornos digitales.
 
-#### 🎓 Formación y Trayectoria Académica
-* **Sector Tecnológico:** Técnico Superior en **Desarrollo de Aplicaciones Web (DAW)**.
-* **Sector Empresarial:** **Diplomatura en Ciencias Empresariales** (Univ. Oviedo, 1993-1997) ➔ *Convalidación posterior al* **Título de Grado** (Nivel MECES 2).
+#### 🎓 Formación y Evolución Académica
+* **Tech Stack:** Técnico Superior en **Desarrollo de Aplicaciones Web (DAW)**.
+* **Business Stack:** **Diplomatura en Ciencias Empresariales** (Finanzas | Univ. Oviedo, 93-97).
+* **Upskilling Digital:** **Actualización al Título de Grado (MECES 2)**, evolucionando de una modalidad a distancia a una **modalidad virtual avanzada**. 
+    * *Foco:* Digitalización de procesos productivos y optimización de flujos de gestión modernos.
 
-> Esta base dual me permite traducir necesidades complejas de negocio en soluciones técnicas eficientes, aportando una visión estratégica y financiera en cada línea de código.
+> **Valor Diferencial:** Mi formación híbrida me permite atacar problemas de negocio con mentalidad de desarrollador, entendiendo tanto el balance financiero como el despliegue técnico.
 
-#### 🚀 Especialización
-* **IA & Automatización:** Integración de LLMs y optimización de flujos.
-* **Stack:** JavaScript, Python, PHP y orquestación con **Docker**.
+#### 🚀 Intereses & Especialización
+* **IA & Automatización:** Integración de LLMs y automatización de procesos (RPA mindset).
+* **Web3 & Finanzas:** Apasionado de **DeFi** y **Blockchain**, explorando la disrupción de los modelos financieros tradicionales.
+* **Infraestructura:** JavaScript, Python, PHP y orquestación con **Docker**.
 
 ---
