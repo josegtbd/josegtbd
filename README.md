@@ -1,22 +1,26 @@
 ### ¡Hola! Soy Jose 👋
 
-**Desarrollo Web (DAW) | IA Generativa & Business Logic 💻 🤖**
+**Economista + Desarrollador | Negocio y tecnología** 💼💻
 
 ---
 
-Bienvenido a mi perfil. Mi enfoque principal es la **convergencia entre el Business Intelligence y el desarrollo de software**, priorizando la automatización mediante IA y la eficiencia operativa en entornos digitales.
+Bienvenido a mi perfil. Mi enfoque principal es la **convergencia entre la lógica de negocio y el desarrollo de software**, con foco en la automatización de procesos y la eficiencia operativa.
 
-#### 🎓 Formación y Evolución Académica
-* **Tech Stack:** Técnico Superior en **Desarrollo de Aplicaciones Web (DAW)**.
-* **Business Stack:** **Diplomatura en Ciencias Empresariales** (Finanzas | Univ. Oviedo, 93-97).
-* **Upskilling Digital:** **Actualización al Título de Grado (MECES 2)**, evolucionando de una modalidad a distancia a una **modalidad virtual avanzada**. 
-    * *Foco:* Digitalización de procesos productivos y optimización de flujos de gestión modernos.
+#### 🎓 Formación y evolución
+* **Base de negocio:** Economista colegiado, Diplomatura en Ciencias Empresariales (Finanzas · Univ. Oviedo).
+* **Base técnica:** Desarrollo de Aplicaciones Web (en curso).
+* **Enfoque:** Digitalización de procesos productivos y optimización de flujos de gestión.
 
-> **Valor Diferencial:** Mi formación híbrida me permite atacar problemas de negocio con mentalidad de desarrollador, entendiendo tanto el balance financiero como el despliegue técnico.
+> **Valor diferencial:** Mi formación híbrida me permite abordar problemas de negocio con mentalidad de desarrollador, entendiendo tanto el lado financiero como el técnico.
 
-#### 🚀 Intereses & Especialización
-* **IA & Automatización:** Integración de LLMs y automatización de procesos (RPA mindset).
-* **Web3 & Finanzas:** Apasionado de **DeFi** y **Blockchain**, explorando la disrupción de los modelos financieros tradicionales.
-* **Infraestructura:** JavaScript, Python, PHP y orquestación con **Docker**.
+#### 🚀 Intereses
+* **Automatización de procesos** y mejora de la eficiencia operativa.
+* **Finanzas y tecnología:** interés por la digitalización del sector financiero.
+* **Lenguajes:** JavaScript, Python, PHP.
+
+#### 🏗️ Proyecto actual
+* **Tramivera** — proyecto profesional propio en fase de desarrollo. *Criterio, claridad y confianza.*
 
 ---
+
+📫 Más sobre mí: [LinkedIn](https://www.linkedin.com/in/joseramonguar) · [Blog](https://www.joseramonguar.com)
