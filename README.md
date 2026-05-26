@@ -1,6 +1,6 @@
 ### ¡Hola! Soy Jose 👋
 
-**Economista + Desarrollador | Negocio y tecnología** 💼💻
+**Economista Colegiado | Negocio y tecnología** 💼💻
 
 ---
 
